@@ -1,0 +1,164 @@
+﻿Year_Week,Year,Week,Is Weekend,Day Of Week,Date,Program,Workout,Activity Type,Description,Time (m),Instructor
+2022_33,2022,33,TRUE,1,8/7/2022,Sound Meditation,Sample,Meditation,Calm Down,5,
+2022_17,2022,17,FALSE,3,4/19/2022,22 Minute Hard Corps,,Abs,Core 1,10,Tony Horton
+2022_36,2022,36,FALSE,5,9/1/2022,21 Day Fix Extreme Real Time,Bonus,Abs,Abs,13,Autumn
+2021_45,2021,45,FALSE,6,11/5/2021,Morning Meltdown 100,,Cardio,Upbeat Strength,14,Jericho
+2021_45,2021,45,FALSE,6,11/5/2021,Morning Meltdown 100,,Cardio,Core Inferno,16,Jericho
+2021_45,2021,45,FALSE,5,11/4/2021,Morning Meltdown 100,,Cardio,Cardio Meltdown,17,Jericho
+2021_46,2021,46,FALSE,2,11/8/2021,Morning Meltdown 100,,Cardio,Downbeat Strength,17,Jericho
+2021_46,2021,46,FALSE,2,11/8/2021,Morning Meltdown 100,,Cardio,Total Body Badass,17,Jericho
+2022_25,2022,25,FALSE,2,6/13/2022,Job 1,Start Strong,Cardio,"Back, Glutes, Core",19,Jennifer Jacobs
+2022_2,2022,2,FALSE,4,1/5/2022,Morning Meltdown 100,Workout 6,Cardio,LIT Cardio,20,Jericho
+2022_15,2022,15,FALSE,4,4/6/2022,Job 1,,Cardio,Sample Workout,21,Jennifer Jacobs
+2022_8,2022,8,FALSE,5,2/17/2022,9 Week Control Freak,Phase 3 Week 1 Workout 2,Cardio,Tabata Cardio,22,Autumn
+2022_12,2022,12,FALSE,6,3/18/2022,9 Week Control Freak,Phase 3 Week 2 Workout 2,Cardio,Tabata Cardio,22,Autumn
+2022_14,2022,14,FALSE,3,3/29/2022,9 Week Control Freak,Phase 3 Week 3 Workout 2,Cardio,Tabata Cardio,22,Autumn
+2022_16,2022,16,FALSE,3,4/12/2022,22 Minute Hard Corps,,Cardio,Cardio 3,22,Tony Horton
+2022_16,2022,16,FALSE,5,4/14/2022,22 Minute Hard Corps,,Cardio,Resistance 1,22,Tony Horton
+2022_16,2022,16,FALSE,6,4/15/2022,22 Minute Hard Corps,,Cardio,Resistance 3,22,Tony Horton
+2022_17,2022,17,FALSE,2,4/18/2022,22 Minute Hard Corps,,Cardio,Resistance 2,22,Tony Horton
+2021_47,2021,47,FALSE,2,11/15/2021,Morning Meltdown 100,Workout 3,Cardio,Core Inferno,23,Jericho
+2021_48,2021,48,TRUE,1,11/21/2021,9 Week Control Freak,Phase 1 Week 1 Workout 3,Cardio,Tabata Cardio,23,Autumn
+2022_3,2022,3,FALSE,3,1/11/2022,9 Week Control Freak,Phase 2 Week 1 Workout 1,Cardio,Tabata Cardio,23,Autumn
+2022_4,2022,4,FALSE,5,1/20/2022,9 Week Control Freak,Phase 2 Week 2 Workout 1,Cardio,Tabata Cardio,23,Autumn
+2022_6,2022,6,FALSE,4,2/2/2022,9 Week Control Freak,Phase 2 Week 3 Workout 1,Cardio,Tabata Cardio,23,Autumn
+2022_15,2022,15,FALSE,5,4/7/2022,22 Minute Hard Corps,,Cardio,Cardio 1,23,Tony Horton
+2022_16,2022,16,FALSE,2,4/11/2022,22 Minute Hard Corps,,Cardio,Cardio 2,23,Tony Horton
+2022_17,2022,17,FALSE,3,4/19/2022,22 Minute Hard Corps,Special Ops,Cardio,Cardio,23,Tony Horton
+2022_24,2022,24,FALSE,4,6/8/2022,22 Minute Hard Corps,,Cardio,Cardio 1,23,Tony Horton
+2022_27,2022,27,FALSE,3,6/28/2022,9 Week Control Freak,Phase 2 Week 1,Cardio,Tabata Cardio,23,Autumn
+2022_32,2022,32,FALSE,6,8/5/2022,Yoga Studio,Muscle Recovery,Yoga,Yoga,23,Ted
+2021_46,2021,46,FALSE,5,11/11/2021,Morning Meltdown 100,Workout 2,Cardio,Upbeat Strength,24,Jericho
+2021_49,2021,49,FALSE,6,12/3/2021,9 Week Control Freak,Phase 1 Week 2 Workout 3,Cardio,Tabata Cardio,24,Autumn
+2021_53,2021,53,FALSE,2,12/27/2021,9 Week Control Freak,Phase 1 Week 3 Workout 3,Cardio,Tabata Cardio,24,Autumn
+2022_12,2022,12,FALSE,4,3/16/2022,Barre Blend,Intro,Cardio,Classic Full Body Blend,24,Elise
+2022_12,2022,12,FALSE,4,3/16/2022,Barre Blend,Intro,Cardio,Cardio Blend,24,Elise
+2022_12,2022,12,FALSE,3,3/15/2022,9 Week Control Freak,Phase 1 Week 1 Workout 3,Cardio,Tabata Cardio,24,Autumn
+2022_19,2022,19,FALSE,2,5/2/2022,Barre Blend,,Cardio,Classic Full Body Blend,24,Elise
+2022_22,2022,22,FALSE,5,5/26/2022,9 Week Control Freak,Phase 1 Week 2 Workout 3,Cardio,Tabata Cardio,24,Autumn
+2022_24,2022,24,FALSE,4,6/8/2022,9 Week Control Freak,Phase 1 Week 2 Workout 3,Cardio,Tabata Cardio,24,Autumn
+2022_25,2022,25,FALSE,4,6/15/2022,9 Week Control Freak,Phase 1 Week 1,Cardio,Tabata Cardio,24,Autumn
+2022_28,2022,28,FALSE,4,7/6/2022,Barre Blend,Cardio Blend,Cardio,Barre,24,Elise
+2022_36,2022,36,FALSE,4,8/31/2022,9 Week Control Freak,Phase 1 Week 1,Cardio,Tabata Cardio,24,Autumn
+2021_47,2021,47,FALSE,3,11/16/2021,9 Week Control Freak,Intro,Cardio,Sample Workout,25,Autumn
+2022_15,2022,15,FALSE,3,4/5/2022,9 Week Control Freak,Phase 3 Week 3 Workout 4,Cardio,Chest & Triceps,25,Autumn
+2022_22,2022,22,FALSE,6,5/27/2022,22 Minute Hard Corps,,Cardio,Battle Buddy,25,Tony Horton
+2022_33,2022,33,TRUE,1,8/7/2022,#MBF,Day 7,Cardio,Dynamic Recovery,25,Megan Davies
+2022_33,2022,33,FALSE,2,8/8/2022,Tai Cheng,Tai Chi Phase 1 Day 4,Cardio,Ward Off,26,Dr. Mark Cheng
+2021_46,2021,46,FALSE,3,11/9/2021,Morning Meltdown 100,Workout 1,Cardio,Cardio Meltdown,27,Jericho
+2022_2,2022,2,FALSE,3,1/4/2022,Morning Meltdown 100,Workout 4,Cardio,Total Body Badass,27,Jericho
+2022_6,2022,6,FALSE,5,2/3/2022,P90x3,Yoga,Yoga,Yoga,27,Tony Horton
+2022_19,2022,19,FALSE,5,5/5/2022,3 Week Yoga Retreat,Yoga Day 3,Yoga,Balance,28,Vitas
+2022_29,2022,29,FALSE,3,7/12/2022,Focus T25,,Cardio,Cardio,28,Shaun T
+2022_30,2022,30,FALSE,3,7/19/2022,Focus T25,,Cardio,Speed 1.0,28,Shaun T
+2022_8,2022,8,FALSE,6,2/18/2022,9 Week Control Freak,Phase 3 Week 1 Workout 3,Cardio,Total Body Tone,29,Autumn
+2022_13,2022,13,FALSE,2,3/21/2022,9 Week Control Freak,Phase 3 Week 2 Workout 3,Cardio,Total Body Tone,29,Autumn
+2022_14,2022,14,FALSE,5,3/31/2022,9 Week Control Freak,Phase 3 Week 3 Workout 3,Cardio,Total Body Tone,29,Autumn
+2022_14,2022,14,FALSE,4,3/30/2022,3 Week Yoga Retreat,Yoga Day 4,Yoga,Flow,29,Vitas
+2022_31,2022,31,FALSE,5,7/28/2022,Focus T25,,Cardio,Total Body Circuit,29,Shaun T
+2022_32,2022,32,FALSE,4,8/3/2022,Yoga Studio,For Cyclists,Yoga,Yoga,29,Ted
+2021_40,2021,40,FALSE,3,9/28/2021,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2021_48,2021,48,FALSE,2,11/22/2021,9 Week Control Freak,Phase 1 Week 1 Workout 2,Cardio,Chest & Triceps,30,Autumn
+2021_48,2021,48,FALSE,4,11/24/2021,9 Week Control Freak,Phase 1 Week 1 Workout 5,Cardio,Total Body Tone,30,Autumn
+2021_49,2021,49,FALSE,2,11/29/2021,Tai Cheng,Tai Chi Phase 1 Day 1,Cardio,"Standing Stances, Lift & Lower",30,Dr. Mark Cheng
+2021_50,2021,50,FALSE,3,12/7/2021,9 Week Control Freak,Phase 1 Week 2 Workout 1,Cardio,Total Body Tone,30,Autumn
+2021_51,2021,51,FALSE,3,12/14/2021,Yoga Studio,Yoga,Yoga,Yoga for Weekend Warriors,30,Ted
+2021_51,2021,51,FALSE,5,12/16/2021,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_2,2022,2,FALSE,6,1/7/2022,9 Week Control Freak,Phase 1 Week 3 Workout 5,Cardio,Total Body Tone,30,Autumn
+2022_7,2022,7,FALSE,6,2/11/2022,3-Day Yoga Refresh,Day 2,Yoga,Restore & Stretch,30,Ted
+2022_10,2022,10,FALSE,4,3/2/2022,9 Week Control Freak,Phase 3 Week 1 Workout 4,Cardio,Chest & Triceps,30,Autumn
+2022_10,2022,10,FALSE,5,3/3/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_14,2022,14,TRUE,1,3/27/2022,3-Day Yoga Refresh,Day 2,Yoga,Restore & Stretch,30,Ted
+2022_14,2022,14,FALSE,5,3/31/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_16,2022,16,FALSE,4,4/13/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_19,2022,19,FALSE,3,5/3/2022,3 Week Yoga Retreat,Yoga Day 2,Yoga,Stretch,30,Vitas
+2022_21,2022,21,FALSE,2,5/16/2022,9 Week Control Freak,Phase 1 Week 1 Workout 5,Cardio,Total Body Tone,30,Autumn
+2022_21,2022,21,FALSE,6,5/20/2022,3-Day Yoga Refresh,Yoga,Yoga,Restore & Stretch,30,Ted
+2022_23,2022,23,FALSE,4,6/1/2022,9 Week Control Freak,Phase 1 Week 2 Workout 5,Cardio,Total Body Tone,30,Autumn
+2022_23,2022,23,FALSE,5,6/2/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_25,2022,25,FALSE,5,6/16/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_27,2022,27,FALSE,2,6/27/2022,9 Week Control Freak,Phase 1 Week 1,Cardio,Total Body Tone,30,Autumn
+2022_28,2022,28,FALSE,3,7/5/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_29,2022,29,FALSE,2,7/11/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_30,2022,30,TRUE,1,7/17/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_30,2022,30,FALSE,5,7/21/2022,Just Your Body Weight,Day 1,Cardio,Ladder Cardio 1,30,Carmel
+2022_31,2022,31,FALSE,6,7/29/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_32,2022,32,FALSE,5,8/4/2022,21 Day Fix Real Time,Day 1,Cardio,Total Body Cardio Fix,30,Autumn
+2022_32,2022,32,TRUE,7,8/6/2022,Tai Cheng,Tai Chi Phase 1 Day 2,Cardio,Phoenix Tail,30,Dr. Mark Cheng
+2022_33,2022,33,TRUE,1,8/7/2022,Tai Cheng,Tai Chi Phase 1 Day 3,Cardio,"Lift & Lower, Phoenix Tail Combo",30,Dr. Mark Cheng
+2022_33,2022,33,FALSE,4,8/10/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_35,2022,35,FALSE,3,8/23/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_36,2022,36,FALSE,2,8/29/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_37,2022,37,FALSE,3,9/6/2022,P90x3,Yoga,Yoga,Yoga,30,Tony Horton
+2022_37,2022,37,FALSE,4,9/7/2022,4 Weeks for Every Body,Day 1,Cardio,PULL,30,Autumn
+2021_43,2021,43,FALSE,2,10/18/2021,Morning Meltdown 100,,Cardio,Sample Workout,31,Jericho
+2021_48,2021,48,FALSE,5,11/25/2021,9 Week Control Freak,Phase 1 Week 1 Workout 4,Cardio,Shoulders,31,Autumn
+2021_49,2021,49,FALSE,4,12/1/2021,9 Week Control Freak,Phase 1 Week 2 Workout 2,Cardio,Chest & Triceps,31,Autumn
+2021_50,2021,50,FALSE,2,12/6/2021,9 Week Control Freak,Phase 1 Week 2 Workout 4,Cardio,Shoulders,31,Autumn
+2021_52,2021,52,FALSE,2,12/20/2021,P90x3,,Cardio,Triometrics,31,Tony Horton
+2021_52,2021,52,FALSE,3,12/21/2021,9 Week Control Freak,Phase 1 Week 3 Workout 4,Cardio,Shoulders,31,Autumn
+2022_2,2022,2,FALSE,5,1/6/2022,P90x3,Yoga,Yoga,Yoga,31,Tony Horton
+2022_5,2022,5,FALSE,2,1/24/2022,P90x3,Yoga,Yoga,Yoga,31,Tony Horton
+2022_9,2022,9,TRUE,1,2/20/2022,P90x3,Yoga,Yoga,Yoga,31,Tony Horton
+2022_10,2022,10,FALSE,6,3/4/2022,9 Week Control Freak,Phase 3 Week 1 Workout 5,Cardio,Shoulders & Biceps,31,Autumn
+2022_12,2022,12,FALSE,2,3/14/2022,P90x3,Yoga,Yoga,Yoga,31,Tony Horton
+2022_13,2022,13,FALSE,4,3/23/2022,9 Week Control Freak,Phase 3 Week 2 Workout 5,Cardio,Shoulders & Biceps,31,Autumn
+2022_13,2022,13,FALSE,5,3/24/2022,P90x3,Yoga,Yoga,Yoga,31,Tony Horton
+2022_15,2022,15,FALSE,3,4/5/2022,9 Week Control Freak,Phase 3 Week 3 Workout 5,Cardio,Shoulders & Biceps,31,Autumn
+2022_19,2022,19,TRUE,1,5/1/2022,3 Week Yoga Retreat,Yoga Day 1,Yoga,Core,31,Vitas
+2022_20,2022,20,FALSE,6,5/13/2022,9 Week Control Freak,Phase 1 Week 1 Workout 4,Cardio,Shoulders,31,Autumn
+2022_21,2022,21,FALSE,3,5/17/2022,9 Week Control Freak,Phase 1 Week 2 Workout 1,Cardio,Back & Biceps,31,Autumn
+2022_22,2022,22,FALSE,2,5/23/2022,P90x3,Yoga,Yoga,Yoga,31,Tony Horton
+2022_23,2022,23,FALSE,3,5/31/2022,9 Week Control Freak,Phase 1 Week 2 Workout 4,Cardio,Shoulders,31,Autumn
+2022_30,2022,30,FALSE,6,7/22/2022,9 Week Control Freak,Phase 2 Week 2,Cardio,Biceps & Triceps,31,Autumn
+2022_31,2022,31,TRUE,1,7/24/2022,21 Day Fix Extreme,Yoga,Yoga,Yoga,31,Autumn
+2022_32,2022,32,TRUE,1,7/31/2022,Xtend Barre,Sample Xtend Signature 1,Cardio,Barre,31,Andrea Rogers
+2022_36,2022,36,FALSE,5,9/1/2022,21 Day Fix Extreme Real Time,Day 1 ,Cardio,Plyo Fix Extreme,31,Autumn
+2021_47,2021,47,FALSE,3,11/16/2021,9 Week Control Freak,Phase 1 Week 1 Workout 1,Cardio,Back & Biceps,32,Autumn
+2021_49,2021,49,TRUE,1,11/28/2021,9 Week Control Freak,Phase 1 Week 2 Workout 1,Cardio,Back & Biceps,32,Autumn
+2021_51,2021,51,FALSE,2,12/13/2021,9 Week Control Freak,Phase 1 Week 3 Workout 2,Cardio,Chest & Triceps,32,Autumn
+2022_3,2022,3,FALSE,4,1/12/2022,9 Week Control Freak,Phase 2 Week 1 Workout 2,Cardio,Shoulders,32,Autumn
+2022_5,2022,5,FALSE,3,1/25/2022,9 Week Control Freak,Phase 2 Week 2 Workout 2,Cardio,Shoulders,32,Autumn
+2022_7,2022,7,FALSE,2,2/7/2022,9 Week Control Freak,Phase 2 Week 3 Workout 2,Cardio,Shoulders,32,Autumn
+2022_7,2022,7,FALSE,3,2/8/2022,9 Week Control Freak,Phase 2 Week 3 Workout 3,Cardio,Biceps & Triceps,32,Autumn
+2022_7,2022,7,FALSE,5,2/10/2022,9 Week Control Freak,Phase 2 Week 3 Workout 4,Cardio,Total Body Tone,32,Autumn
+2022_14,2022,14,FALSE,2,3/28/2022,9 Week Control Freak,Phase 3 Week 3 Workout 1,Cardio,Back & Legs,32,Autumn
+2022_14,2022,14,TRUE,1,3/27/2022,9 Week Control Freak,Phase 1 Week 1 Workout 2,Cardio,Chest & Triceps,32,Autumn
+2022_13,2022,13,TRUE,7,3/26/2022,9 Week Control Freak,Phase 1 Week 1 Workout 1,Cardio,Back & Biceps,32,Autumn
+2022_22,2022,22,FALSE,4,5/25/2022,9 Week Control Freak,Phase 1 Week 2 Workout 2,Cardio,Chest & Triceps,32,Autumn
+2022_25,2022,25,FALSE,3,6/14/2022,9 Week Control Freak,Phase 1 week 3,Cardio,Chest & Triceps,32,Autumn
+2022_27,2022,27,FALSE,4,6/29/2022,9 Week Control Freak,Phase 2 Week 2,Cardio,Shoulders,32,Autumn
+2022_33,2022,33,FALSE,2,8/8/2022,21 Day Fix Real Time,Day 2,Cardio,Lower Fix,32,Autumn
+2022_36,2022,36,FALSE,3,8/30/2022,9 Week Control Freak,Phase 1 Week 1,Cardio,Chest & Tricepts,32,Autumn
+2021_50,2021,50,FALSE,4,12/8/2021,9 Week Control Freak,Phase 1 Week 3 Workout 1,Cardio,Back & Biceps,33,Autumn
+2022_4,2022,4,TRUE,1,1/16/2022,9 Week Control Freak,Phase 2 Week 1 Workout 3,Cardio,Biceps & Triceps,33,Autumn
+2022_4,2022,4,FALSE,2,1/17/2022,9 Week Control Freak,Phase 2 Week 1 Workout 4,Cardio,Total Body Tone,33,Autumn
+2022_4,2022,4,FALSE,4,1/19/2022,9 Week Control Freak,Phase 2 Week 1 Workout 5,Cardio,Back & Chest,33,Autumn
+2022_5,2022,5,FALSE,4,1/26/2022,9 Week Control Freak,Phase 2 Week 2 Workout 3,Cardio,Biceps & Triceps,33,Autumn
+2022_5,2022,5,FALSE,5,1/27/2022,9 Week Control Freak,Phase 2 Week 2 Workout 4,Cardio,Total Body Tone,33,Autumn
+2022_6,2022,6,FALSE,2,1/31/2022,9 Week Control Freak,Phase 2 Week 2 Workout 5,Cardio,Back & Chest,33,Autumn
+2022_8,2022,8,FALSE,2,2/14/2022,9 Week Control Freak,Phase 2 Week 3 Workout 5,Cardio,Back & Chest,33,Autumn
+2022_8,2022,8,FALSE,3,2/15/2022,9 Week Control Freak,Phase 3 Week 1 Workout 1,Cardio,Back & Legs,33,Autumn
+2022_12,2022,12,FALSE,5,3/17/2022,9 Week Control Freak,Phase 3 Week 2,Cardio,Back & Legs,33,Autumn
+2022_13,2022,13,FALSE,3,3/22/2022,9 Week Control Freak,Phase 3 Week 2 Workout 4,Cardio,Chest & Triceps,33,Autumn
+2022_24,2022,24,FALSE,3,6/7/2022,9 Week Control Freak,Phase 1 Week 3,Cardio,Back & Biceps,33,Autumn
+2022_28,2022,28,FALSE,5,7/7/2022,Barre Blend,Week 1,Cardio,Classic Full Body Blend,33,Elise
+2022_31,2022,31,FALSE,2,7/25/2022,9 Week Control Freak,Phase 2 Week 2,Cardio,Total Body Tone,33,Autumn
+2022_32,2022,32,FALSE,3,8/2/2022,9 Week Control Freak,Phase 2 Week 1,Cardio,Back & Chest,33,Autumn
+2022_35,2022,35,FALSE,5,8/25/2022,9 Week Control Freak,Phase 1 Week 1,Cardio,Back & Bicepts,33,Autumn
+2022_37,2022,37,FALSE,6,9/9/2022,21 Day Fix Extreme Real Time,Day 3,Cardio,Pilates,33,Autumn
+2022_28,2022,28,FALSE,6,7/8/2022,Barre Blend,Week 1,Cardio,Cardio Blend,34,Elise
+2022_33,2022,33,FALSE,3,8/9/2022,21 Day Fix Real Time,Day 3,Cardio,Upper Fix,34,Autumn
+2021_41,2021,41,FALSE,5,10/7/2021,80 day obsession,Day 76,Cardio,Cardio Flow,36,Autumn
+2022_2,2022,2,FALSE,2,1/3/2022,3-Day Yoga Refresh,Day 3,Yoga,Deep Focus,36,Vitas
+2022_10,2022,10,FALSE,4,3/2/2022,3-Day Yoga Refresh,Day 3,Yoga,Deep Focus,36,Vitas
+2022_24,2022,24,TRUE,1,6/5/2022,P90x3,,Cardio,Triometrics,36,Tony Horton
+2022_32,2022,32,FALSE,2,8/1/2022,3-Day Yoga Refresh,Chill Flow,Yoga,Yoga,38,Elise
+2022_36,2022,36,FALSE,6,9/2/2022,21 Day Fix Extreme Real Time,Day 2,Cardio,Upper Fix Extreme,40,Autumn
+2021_44,2021,44,FALSE,6,10/29/2021,80 day obsession,Day 79,Cardio,Cardio Core,41,Autumn
+2021_42,2021,42,FALSE,4,10/13/2021,Yoga Studio,Yoga,Yoga,Half & Half,43,Jericho
+2021_42,2021,42,FALSE,6,10/15/2021,Yoga Studio,Yoga,Yoga,Half & Half Harder,43,Jericho
+2021_41,2021,41,FALSE,2,10/4/2021,80 day obsession,Day 75,Cardio,AAA,52,Autumn
+2021_42,2021,42,FALSE,5,10/14/2021,80 day obsession,Day 77,Cardio,Legs,52,Autumn
+2021_43,2021,43,FALSE,3,10/19/2021,80 day obsession,Day 78,Cardio,Total Body Core,55,Autumn
+2021_45,2021,45,FALSE,4,11/3/2021,80 day obsession,Day 80,Cardio,Booty,61,Autumn

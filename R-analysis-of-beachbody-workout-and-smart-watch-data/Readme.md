@@ -1,0 +1,1 @@
+These data files are associated with the blog post found [here](https://kljohnson.netlify.app/2022/09/12/r-analysis-of-beachbody-workout-and-smart-watch-data/)
